@@ -1,0 +1,10 @@
+img {
+    border-radius:50% ;
+    width:220px;
+    height: 220px;
+    border:7pxsolid rgb(34, 31, 31);
+    vertical-align:bottom;
+}
+.univ {
+    text-decoration: none;
+}
